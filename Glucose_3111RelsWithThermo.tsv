@@ -1,0 +1,14 @@
+2783_0	['C(CC(C(C(CO)O)O)=O)(O)=O']	['O', 'C1(CC(C(C(CO1)O)O)=O)=O']	Ring Closure 7 membered O, O	13.37
+2784_0	['C(C(C(CC(CO)O)=O)O)(O)=O']	['O', 'C1(C(C(CC(CO1)O)=O)O)=O']	Ring Closure 7 membered O, O	380.23
+2785_0	['C(CC(C(O)=O)O)(C(CO)O)=O']	['O', 'C1(CC(C(OCC1O)=O)O)=O']	Ring Closure 7 membered O, O	-115.16
+2786_0	['C(C(C(C(O)=O)O)O)(CCO)=O']	['O', 'C1(C(C(C(OCC1)=O)O)O)=O']	Ring Closure 7 membered O, O	-306.13
+2787_0	['C(C(C(CC(CO)=O)O)O)(O)=O']	['O', 'C1(C(C(CC(CO1)=O)O)O)=O']	Ring Closure 7 membered O, O	-236.35
+2788_0	['C(C=CC(C(CO)O)=O)=O']	['C(C1C(C(C(C1)=O)O)O)=O']	Michael Addition 0,2, 	0.0
+2789_0	['C(C(C(C(C=C)=O)O)O)=O']	['C(C1(CCC(C1O)=O)O)=O']	Michael Addition 0,2, 	6.39
+2791_0	['C(C)=O', 'C(C(CO)O)=CC(C=O)=O']	['C(CC(C(CO)O)CC(C=O)=O)=O']	Michael Addition 0,2, 	908.26
+2793_0	['C(C)=O', 'C(C(C(C=CCO)=O)O)=O']	['C(C(C(CC(CO)CC=O)=O)O)=O']	Michael Addition 0,2, 	908.26
+2795_0	['C(C)=O', 'C(C=CC(C(CO)O)=O)=O']	['C(CC(C=O)CC=O)(C(CO)O)=O']	Michael Addition 0,2, 	844.6
+2797_0	['C(C)=O', 'C(C=CC(C(CO)O)=O)=O']	['C(CC(C(C(CO)O)=O)CC=O)=O']	Michael Addition 0,2, 	657.71
+2799_0	['C(C)=O', 'C(C(C(C(C=C)=O)O)O)=O']	['C(CCCC(C(C(C=O)O)O)=O)=O']	Michael Addition 0,2, 	755.02
+2801_0	['C(C)=O', 'C(C(C=CC(CO)=O)O)=O']	['C(CC(C(C=O)O)CC(CO)=O)=O']	Michael Addition 0,2, 	913.29
+2803_0	['C(C)=O', 'C(C(C(C=CC=O)O)O)=O']	['C(CC(C(C(C=O)O)O)CC=O)=O']	Michael Addition 0,2, 	755.63
