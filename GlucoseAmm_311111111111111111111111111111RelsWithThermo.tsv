@@ -1,0 +1,55 @@
+4909_0	['C(C(C(C(C(CO)O)O)N)O)(O)=O']	['O', 'C1(C(C(C(C(CO)O)O1)N)O)=O']	Ring Closure 5 membered O, O	13.37
+4910_0	['C1(CC(C(C(CO)O1)O)O)=O']	['C1(CC(C(C(CO)O)O1)O)=O']	Ring Closure 5 membered O, O	829.74
+4911_0	['C1(CC(C(C(CO1)O)O)O)=O']	['C1(CC(C(C(CO)O)O1)O)=O']	Ring Closure 5 membered O, O	156.22
+4912_0	['C1(C(C(C(C(CO)O1)O)O)O)=O']	['C1(C(C(C(C(CO)O)O1)O)O)=O']	Ring Closure 5 membered O, O	-352.65
+4913_0	['C1(C(C(C(C(CO1)O)O)O)O)=O']	['C1(C(C(C(C(CO)O)O1)O)O)=O']	Ring Closure 5 membered O, O	-178.14
+4914_0	['C(C(CC(C(CO)O)O)O)(O)=O']	['O', 'C1(C(CC(C(CO)O1)O)O)=O']	Ring Closure 6 membered O, O	-306.13
+4915_0	['C(C(CC(C(CO)O)O)=O)(O)=O']	['O', 'C1(C(CC(C(CO)O1)O)=O)=O']	Ring Closure 6 membered O, O	-236.35
+4916_0	['C(CC(C(C(CO)O)O)=O)(O)=O']	['O', 'C1(CC(C(C(CO)O1)O)=O)=O']	Ring Closure 6 membered O, O	-293.3
+4917_0	['C(C(C(CC(CO)O)=O)O)(O)=O']	['O', 'C1(C(C(CC(CO)O1)=O)O)=O']	Ring Closure 6 membered O, O	-286.91
+4918_0	['C(CC(C(O)=O)O)(C(CO)O)=O']	['O', 'C1(CC(C(OC1CO)=O)O)=O']	Ring Closure 6 membered O, O	-439.36
+4920_0	['C(CC(C(C(C=O)O)O)O)(O)=O']	['O', 'C1(CC(C(C(C=O)O1)O)O)=O']	Ring Closure 6 membered O, O	-296.15
+4921_0	['C(C(C(C(C(CO)O)O)N)O)(O)=O']	['O', 'C1(C(C(C(C(CO)O1)O)N)O)=O']	Ring Closure 6 membered O, O	-184.44
+4922_0	['C1(CC(C(C(CO1)O)O)O)=O']	['C1(CC(C(C(CO)O1)O)O)=O']	Ring Closure 6 membered O, O	-673.52
+4923_0	['C1(C(C(C(C(CO1)O)O)O)O)=O']	['C1(C(C(C(C(CO)O1)O)O)O)=O']	Ring Closure 6 membered O, O	174.52
+4924_0	['C(C(CC(C(CO)O)O)O)(O)=O']	['O', 'C1(C(CC(C(CO1)O)O)O)=O']	Ring Closure 7 membered O, O	-384.42
+4925_0	['C(C(CC(C(CO)O)O)=O)(O)=O']	['O', 'C1(C(CC(C(CO1)O)O)=O)=O']	Ring Closure 7 membered O, O	-302.86
+4926_0	['C(CC(C(C(CO)O)O)=O)(O)=O']	['O', 'C1(CC(C(C(CO1)O)O)=O)=O']	Ring Closure 7 membered O, O	-546.7
+4927_0	['C(C(C(CC(CO)O)=O)O)(O)=O']	['O', 'C1(C(C(CC(CO1)O)=O)O)=O']	Ring Closure 7 membered O, O	-449.4
+4928_0	['C(CC(C(O)=O)O)(C(CO)O)=O']	['O', 'C1(CC(C(OCC1O)=O)O)=O']	Ring Closure 7 membered O, O	19.91
+4929_0	['C(C(C(C(O)=O)O)O)(CCO)=O']	['O', 'C1(C(C(C(OCC1)=O)O)O)=O']	Ring Closure 7 membered O, O	-157.42
+4930_0	['C(C(C(CC(CO)=O)O)O)(O)=O']	['O', 'C1(C(C(CC(CO1)=O)O)O)=O']	Ring Closure 7 membered O, O	-448.79
+4931_0	['C(C(C(C(C(CO)O)O)N)O)(O)=O']	['O', 'C1(C(C(C(C(CO1)O)O)N)O)=O']	Ring Closure 7 membered O, O	149.15
+4933_0	['C(C(CC(C(CO)=O)N)O)=O']	['O', 'C(CO)(C1CC(C=N1)O)=O']	Amine Carbonyl Ring Closure, H, 5	-484.51
+4935_0	['C(C(C(C(CCO)N)=O)O)=O']	['O', 'C1(C(CCO)N=CC1O)=O']	Amine Carbonyl Ring Closure, H, 5	142.17
+4937_0	['C(CC(C(C(CO)O)N)=O)=O']	['O', 'C1(C(C(CO)O)N=CC1)=O']	Amine Carbonyl Ring Closure, H, 5	-331.93
+4939_0	['C(C(C(C(C(C)=O)N)O)O)=O']	['O', 'C(C)(C1C(C(C=N1)O)O)=O']	Amine Carbonyl Ring Closure, H, 5	-202.32
+4941_0	['C(CC(C(C(C=O)O)N)O)=O']	['O', 'C(C(C1C(CC=N1)O)O)=O']	Amine Carbonyl Ring Closure, H, 5	-401.61
+4943_0	['C(C(CC(C(CO)O)N)=O)=O']	['O', 'C1(C=NC(C(CO)O)C1)=O']	Amine Carbonyl Ring Closure, H, 5	131.0
+4945_0	['C(CC(C(C(C=O)O)O)N)=O']	['O', 'C(CC1C(C(C=N1)O)O)=O']	Amine Carbonyl Ring Closure, H, 5	-599.97
+4947_0	['C(C(CO)O)(CC(CN)=O)=O']	['O', 'C1(CN=C(C(CO)O)C1)=O']	Amine Carbonyl Ring Closure, C, 5	-232.06
+4949_0	['C(CCO)(C(C(CN)=O)O)=O']	['O', 'C1(CN=C(CCO)C1O)=O']	Amine Carbonyl Ring Closure, C, 5	-291.3
+4951_0	['C(C(CC(C(C=O)O)O)N)=O']	['O', 'C(C1CC(C(C=N1)O)O)=O']	Amine Carbonyl Ring Closure, H, 6	-291.3
+4953_0	['C(C(C(C=O)O)O)(C(C)N)=O']	['O', 'C1(C(C(C=NC1C)O)O)=O']	Amine Carbonyl Ring Closure, H, 6	-291.3
+4955_0	['C(CC(C=O)O)(C(CO)N)=O']	['O', 'C1(CC(C=NC1CO)O)=O']	Amine Carbonyl Ring Closure, H, 6	-289.3
+4957_0	['C(CC(C(C(CO)N)O)=O)=O']	['O', 'C1(C(C(CO)N=CC1)O)=O']	Amine Carbonyl Ring Closure, H, 6	-291.3
+4959_0	['C(C(C(CC(CO)N)=O)O)=O']	['O', 'C1(CC(CO)N=CC1O)=O']	Amine Carbonyl Ring Closure, H, 6	-320.24
+4961_0	['C(CN)(C(CC(CO)=O)O)=O']	['O', 'C1(CN=C(CO)CC1O)=O']	Amine Carbonyl Ring Closure, C, 6	-601.97
+4963_0	['C(C)(C(C(C(CN)=O)O)O)=O']	['O', 'C1(CN=C(C)C(C1O)O)=O']	Amine Carbonyl Ring Closure, C, 6	-295.3
+4964_0	['C(C=CC(C(CO)O)=O)=O']	['C(C1C(C(C(C1)=O)O)O)=O']	Michael Addition 0,2, 	61.24
+4965_0	['C(C(C(C(C=C)=O)O)O)=O']	['C(C1(CCC(C1O)=O)O)=O']	Michael Addition 0,2, 	36.3
+4967_0	['C(C)=O', 'C(C(CO)O)=CC(C=O)=O']	['C(CC(C(CO)O)CC(C=O)=O)=O']	Michael Addition 0,2, 	540.35
+4969_0	['C(C)=O', 'C(C(C(C=CCO)=O)O)=O']	['C(C(C(CC(CO)CC=O)=O)O)=O']	Michael Addition 0,2, 	540.35
+4971_0	['C(C)=O', 'C(C=CC(C(CO)O)=O)=O']	['C(CC(C=O)CC=O)(C(CO)O)=O']	Michael Addition 0,2, 	612.32
+4973_0	['C(C)=O', 'C(C=CC(C(CO)O)=O)=O']	['C(CC(C(C(CO)O)=O)CC=O)=O']	Michael Addition 0,2, 	597.2
+4975_0	['C(C)=O', 'C(C(C(C(C=C)=O)O)O)=O']	['C(CCCC(C(C(C=O)O)O)=O)=O']	Michael Addition 0,2, 	580.99
+4977_0	['C(C)=O', 'C(C(C=CC(CO)=O)O)=O']	['C(CC(C(C=O)O)CC(CO)=O)=O']	Michael Addition 0,2, 	549.72
+4979_0	['C(C)=O', 'C(C(C(C=CC=O)O)O)=O']	['C(CC(C(C(C=O)O)O)CC=O)=O']	Michael Addition 0,2, 	269.99
+4981_0	['C(C(C(CC(CO)O)N)=O)=O']	['C(CO)O', 'C=C(C(C=O)=O)N']	Michael Addition 0,2, (reverse)	-751.17
+4983_0	['C(C(CC(C(CO)=O)N)O)=O']	['C(CO)=O', 'C=C(C(CO)=O)N']	Michael Addition 0,2, (reverse)	-1247.05
+4985_0	['C(C(C(C(CCO)N)=O)O)=O']	['CO', 'C(C(C(C(N)=C)=O)O)=O']	Michael Addition 0,2, (reverse)	-993.65
+4987_0	['C(C(CC(C(C=O)O)O)N)=O']	['C(C(CO)O)=O', 'C=C(C=O)N']	Michael Addition 0,2, (reverse)	-638.04
+4989_0	['C(C(C(CC(CO)=O)N)O)=O']	['C(CO)=O', 'C(N)=CC(CO)=O']	Michael Addition 0,2, (reverse)	-755.56
+4991_0	['C(C(CC(C(CO)O)N)=O)=O']	['C(CO)O', 'C(N)=CC(C=O)=O']	Michael Addition 0,2, (reverse)	-1116.12
+4993_0	['C(C(C(CC(CO)N)=O)O)=O']	['CO', 'C(C(C(C=CN)=O)O)=O']	Michael Addition 0,2, (reverse)	-965.94
+4995_0	['C(CC(C(C(C=O)O)O)N)=O']	['C(C(CO)O)=O', 'C(N)=CC=O']	Michael Addition 0,2, (reverse)	-857.13
