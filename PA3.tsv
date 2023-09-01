@@ -1,0 +1,499 @@
+Index	Reagents	Products	Rule
+1187_0	['O', 'C=O', 'C(C=O)=O']	['C(O)=O', 'C(CO)=O']	Cannizarro 2, HCHO (oxidation)
+1188_0	['O', 'C=O', 'C(C(C=O)O)=O']	['C(O)=O', 'C(C(CO)O)=O']	Cannizarro 2, HCHO (oxidation)
+1190_0	['O', 'C=O', 'C(C(CO)(C(C=O)(CO)O)O)(O)=O']	['C(O)=O', 'C(C(CO)(C(CO)(CO)O)O)(O)=O']	Cannizarro 2, HCHO (oxidation)
+1192_0	['O', 'C=O', 'C(C(CO)(C(C(O)=O)O)O)=O']	['C(O)=O', 'C(C(C(CO)(CO)O)O)(O)=O']	Cannizarro 2, HCHO (oxidation)
+1194_0	['O', 'C=O', 'C(C(C=O)(C)O)(O)=O']	['C(O)=O', 'C(C(CO)(C)O)(O)=O']	Cannizarro 2, HCHO (oxidation)
+1195_0	['O', 'C=O', 'C(C(C=O)O)(O)=O']	['C(C(CO)O)(O)=O', 'C(O)=O']	Cannizarro 2, HCHO (oxidation)
+1197_0	['O', 'C=O', 'C(C)=CC=O']	['C(O)=O', 'C(C)=CCO']	Cannizarro 2, HCHO (oxidation)
+1199_0	['O', 'C=O', 'C(CC=C)=O']	['C(O)=O', 'C=CCCO']	Cannizarro 2, HCHO (oxidation)
+1201_0	['O', 'C=O', 'C(CC(C(O)=O)=C)=O']	['C(O)=O', 'C=C(C(O)=O)CCO']	Cannizarro 2, HCHO (oxidation)
+1203_0	['O', 'C=O', 'C(C=C(C(O)=O)C)=O']	['C(O)=O', 'C(CO)=C(C(O)=O)C']	Cannizarro 2, HCHO (oxidation)
+1205_0	['O', 'C=O', 'C(C(C(C)O)C(CC(C)O)O)=O']	['CO', 'C(C(C(C)O)C(CC(C)O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1207_0	['O', 'C=O', 'C(C(C(CC(O)=O)O)C(C)O)=O']	['CO', 'C(C(C(CC(O)=O)O)C(C)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1209_0	['O', 'C=O', 'C(C(C=O)C(CC(C)O)O)(O)=O']	['CO', 'C(C(C(O)=O)C(CC(C)O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1211_0	['O', 'C=O', 'C(C(C(C)O)C(C(CO)=O)O)=O']	['CO', 'C(C(C(C)O)C(C(CO)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1213_0	['O', 'C=O', 'C(C(C(C)O)C(C=O)(CO)O)=O']	['CO', 'C(C(C(C)O)C(C=O)(CO)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1214_0	['O', 'C=O', 'C(C(C(C)O)C(C=O)(CO)O)=O']	['CO', 'C(C(C(C)O)C(C(O)=O)(CO)O)=O']	Cannizarro 2, HCHO (reduction)
+1215_0	['O', 'C=O', 'C(C(C(C(CC(C)O)O)O)=O)=O']	['CO', 'C(C(C(C(CC(C)O)O)O)=O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1216_0	['O', 'C=O', 'C(C(CO)C(C)O)=O']	['CO', 'C(C(CO)C(C)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1218_0	['O', 'C=O', 'C(C(C=O)C(CC(O)=O)O)(O)=O']	['CO', 'C(C(C(O)=O)C(CC(O)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1220_0	['O', 'C=O', 'C(C(C=O)C(C(CO)=O)O)(O)=O']	['CO', 'C(C(C(O)=O)C(C(CO)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1222_0	['O', 'C=O', 'C(C(C=O)C(C=O)(CO)O)(O)=O']	['CO', 'C(C(C(O)=O)C(C=O)(CO)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1223_0	['O', 'C=O', 'C(C(C=O)C(C=O)(CO)O)(O)=O']	['CO', 'C(C(C=O)C(C(O)=O)(CO)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1224_0	['O', 'C=O', 'C(CC(C(C(C=O)=O)O)O)(O)=O']	['CO', 'C(CC(C(C(C(O)=O)=O)O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1225_0	['O', 'C=O', 'C(C(C=O)CO)(O)=O']	['CO', 'C(C(C(O)=O)CO)(O)=O']	Cannizarro 2, HCHO (reduction)
+1226_0	['O', 'C=O', 'C(C(CO)C(C(O)=O)(C)O)=O']	['CO', 'C(C(CO)C(C(O)=O)(C)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1227_0	['O', 'C=O', 'C(CO)(C(C(C(C=O)=O)O)O)=O']	['CO', 'C(CO)(C(C(C(C(O)=O)=O)O)O)=O']	Cannizarro 2, HCHO (reduction)
+1228_0	['O', 'C=O', 'C(C(CO)(C(C(C=O)=O)O)O)=O']	['CO', 'C(C(CO)(C(C(C(O)=O)=O)O)O)=O']	Cannizarro 2, HCHO (reduction)
+1229_0	['O', 'C=O', 'C(C(CO)(C(C(C=O)=O)O)O)=O']	['CO', 'C(C(CO)(C(C(C=O)=O)O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1230_0	['O', 'C=O', 'C(C(C(CO)O)=O)=O']	['CO', 'C(C(C(CO)O)=O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1232_0	['O', 'C=O', 'C(CC(CC(C)O)O)=O']	['CO', 'C(CC(CC(C)O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1234_0	['O', 'C=O', 'C(C(C(C)O)C(C)O)=O']	['CO', 'C(C(C(C)O)C(C)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1236_0	['O', 'C=O', 'C(CC(CC=O)O)(O)=O']	['CO', 'C(CC(CC(O)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1238_0	['O', 'C=O', 'C(C(C=O)C(C)O)(O)=O']	['CO', 'C(C(C(O)=O)C(C)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1240_0	['O', 'C=O', 'C(C(CC(C)O)(CC=O)O)(O)=O']	['CO', 'C(C(CC(C)O)(CC(O)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1242_0	['O', 'C=O', 'C(C(C)(CC(CC=O)O)O)(O)=O']	['CO', 'C(C(C)(CC(CC(O)=O)O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1244_0	['O', 'C=O', 'C(C(C(C)O)C(C(O)=O)(C)O)=O']	['CO', 'C(C(C(C)O)C(C(O)=O)(C)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1246_0	['O', 'C=O', 'C(CC(C(O)=O)(CC=O)O)(O)=O']	['CO', 'C(CC(C(O)=O)(CC(O)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1248_0	['O', 'C=O', 'C(CC(C(CO)=O)O)=O']	['CO', 'C(CC(C(CO)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1250_0	['O', 'C=O', 'C(C(CO)(CC=O)O)=O']	['CO', 'C(C(CO)(CC(O)=O)O)=O']	Cannizarro 2, HCHO (reduction)
+1251_0	['O', 'C=O', 'C(C(CO)(CC=O)O)=O']	['CO', 'C(C(CO)(CC=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1252_0	['O', 'C=O', 'C(C(C(C(C)O)O)=O)=O']	['CO', 'C(C(C(C(C)O)O)=O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1253_0	['O', 'C=O', 'C(CCO)=O']	['C(CCO)(O)=O', 'CO']	Cannizarro 2, HCHO (reduction)
+1255_0	['O', 'C=O', 'C(C(C(O)=O)C(O)=O)=O']	['CO', 'C(C(C(O)=O)C(O)=O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1257_0	['O', 'C=O', 'C(C(C=O)C(C(O)=O)(C)O)(O)=O']	['CO', 'C(C(C(O)=O)C(C(O)=O)(C)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1258_0	['O', 'C=O', 'C(C(C(C=O)=O)O)(O)=O']	['CO', 'C(C(C(C(O)=O)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1259_0	['O', 'C=O', 'C(C(CO)(CC(C(O)=O)=O)O)=O']	['CO', 'C(C(CO)(CC(C(O)=O)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1260_0	['O', 'C=O', 'C(C(C)(C(C(C=O)=O)O)O)(O)=O']	['CO', 'C(C(C)(C(C(C(O)=O)=O)O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1261_0	['O', 'C=O', 'C(CC(C(C)=O)=O)=O']	['CO', 'C(CC(C(C)=O)=O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1262_0	['O', 'C=O', 'C(C=O)=O']	['CO', 'C(C(O)=O)=O']	Cannizarro 2, HCHO (reduction)
+1263_0	['O', 'C=O', 'C(C(C=O)O)=O']	['CO', 'C(C(C=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1265_0	['O', 'C=O', 'C(C(CO)(C(C(O)=O)O)O)=O']	['CO', 'C(C(CO)(C(C(O)=O)O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1267_0	['O', 'C=O', 'C(C(C=O)(C)O)(O)=O']	['CO', 'C(C(C(O)=O)(C)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1268_0	['O', 'C=O', 'C(C(C=O)O)(O)=O']	['CO', 'C(C(C(O)=O)O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1270_0	['O', 'C=O', 'C(C)=CC=O']	['CO', 'C(C)=CC(O)=O']	Cannizarro 2, HCHO (reduction)
+1272_0	['O', 'C=O', 'C(CC=C)=O']	['CO', 'C(CC=C)(O)=O']	Cannizarro 2, HCHO (reduction)
+1274_0	['O', 'C=O', 'C(CC(C(O)=O)=C)=O']	['CO', 'C(CC(C(O)=O)=C)(O)=O']	Cannizarro 2, HCHO (reduction)
+1276_0	['O', 'C=O', 'C(C=C(C(O)=O)C)=O']	['CO', 'C(C(C)=CC(O)=O)(O)=O']	Cannizarro 2, HCHO (reduction)
+1277_0	['C(CC(C(C(C=O)=O)O)O)(O)=O']	['C(C1C(C(C(C1O)=O)O)O)(O)=O']	Knoevenagel C
+1279_0	['C(C(CO)C(C)O)=O', 'C(CCO)=O']	['C(C(CO)(C(C)O)C(CCO)O)=O']	Knoevenagel C
+1281_0	['C(C(CO)C(C)O)=O', 'C(C=O)=O']	['C(C(CO)(C(C)O)C(C=O)O)=O']	Knoevenagel C
+1283_0	['C(C(CO)C(C)O)=O', 'C(C)=CC=O']	['C(C(CO)(C(C)O)C(C=CC)O)=O']	Knoevenagel C
+1285_0	['C(C(CO)C(C)O)=O', 'C(CC=C)=O']	['C(C(CO)(C(CC=C)O)C(C)O)=O']	Knoevenagel C
+1287_0	['C(C(C=O)CO)(O)=O', 'C(CCO)=O']	['C(C(C=O)(CO)C(CCO)O)(O)=O']	Knoevenagel C
+1289_0	['C(C(C=O)CO)(O)=O', 'C(C=O)=O']	['C(C(C=O)(CO)C(C=O)O)(O)=O']	Knoevenagel C
+1291_0	['C(C(C=O)CO)(O)=O', 'C(C)=CC=O']	['C(C(C=O)(CO)C(C=CC)O)(O)=O']	Knoevenagel C
+1293_0	['C(C(C=O)CO)(O)=O', 'C(CC=C)=O']	['C(C(C=O)(CO)C(CC=C)O)(O)=O']	Knoevenagel C
+1295_0	['C(C(C(CO)O)=O)=O', 'C(CCO)=O']	['C(C(C(CO)(C(CCO)O)O)=O)=O']	Knoevenagel C
+1295_1	['C(C(C(CO)O)=O)=O', 'C(CCO)=O']	['C(C(C(CO)(C(CCO)O)O)=O)=O']	Knoevenagel H
+1297_0	['C(C(C(CO)O)=O)=O', 'C(C=O)=O']	['C(C(C(C(C=O)=O)(CO)O)O)=O']	Knoevenagel C
+1297_1	['C(C(C(CO)O)=O)=O', 'C(C=O)=O']	['C(C(C(C(C=O)=O)(CO)O)O)=O']	Knoevenagel H
+1299_0	['C(C(C(CO)O)=O)=O', 'C(C)=CC=O']	['C(C)=CC(C(C(C=O)=O)(CO)O)O']	Knoevenagel C
+1299_1	['C(C(C(CO)O)=O)=O', 'C(C)=CC=O']	['C(C)=CC(C(C(C=O)=O)(CO)O)O']	Knoevenagel H
+1301_0	['C(C(C(CO)O)=O)=O', 'C(CC=C)=O']	['C=CCC(C(C(C=O)=O)(CO)O)O']	Knoevenagel C
+1301_1	['C(C(C(CO)O)=O)=O', 'C(CC=C)=O']	['C=CCC(C(C(C=O)=O)(CO)O)O']	Knoevenagel H
+1303_0	['C(C(C(C)O)C(C)O)=O', 'C(C=O)=O']	['C(C(C(C)O)(C(C)O)C(C=O)O)=O']	Knoevenagel C
+1305_0	['C(CC(CC=O)O)(O)=O', 'C(C=O)=O']	['C(C(C(CC=O)O)C(C=O)O)(O)=O']	Knoevenagel C
+1307_0	['C(C(C=O)C(C)O)(O)=O', 'C(C=O)=O']	['C(C(C=O)(C(C)O)C(C=O)O)(O)=O']	Knoevenagel C
+1309_0	['C(C(C(C(C)O)O)=O)=O', 'C(C=O)=O']	['C(C(C(C(C=O)=O)(C(C)O)O)O)=O']	Knoevenagel C
+1309_1	['C(C(C(C(C)O)O)=O)=O', 'C(C=O)=O']	['C(C(C(C(C=O)=O)(C(C)O)O)O)=O']	Knoevenagel H
+1311_0	['C(CCO)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(CCO)O)O)=O']	Knoevenagel C
+1311_1	['C(CCO)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(CCO)O)O)=O']	Knoevenagel H
+1313_0	['C(CCO)=O', 'C(CCO)(O)=O']	['C(C(CO)C(CCO)O)(O)=O']	Knoevenagel C
+1315_0	['C(CCO)=O', 'C(CC(C)O)(O)=O']	['C(C(C(C)O)C(CCO)O)(O)=O']	Knoevenagel C
+1317_0	['C(CCO)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(CCO)O)(O)=O']	Knoevenagel C
+1319_0	['C(CCO)=O', 'C(C(C(C)O)O)(O)=O']	['C(C(C(C)O)(C(CCO)O)O)(O)=O']	Knoevenagel C
+1319_1	['C(CCO)=O', 'C(C(C(C)O)O)(O)=O']	['C(C(C(C)O)(C(CCO)O)O)(O)=O']	Knoevenagel H
+1321_0	['C(CCO)=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(C(CCO)O)O)(O)=O']	Knoevenagel C
+1321_1	['C(CCO)=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(C(CCO)O)O)(O)=O']	Knoevenagel H
+1323_0	['C(CCO)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(CCO)O)O)(O)=O']	Knoevenagel C
+1323_1	['C(CCO)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(CCO)O)O)(O)=O']	Knoevenagel H
+1325_0	['C(C(C(O)=O)C(O)=O)=O', 'C(C=O)=O']	['C(C(C(O)=O)(C=O)C(C=O)O)(O)=O']	Knoevenagel C
+1327_0	['C(C(C(C=O)=O)O)(O)=O', 'C(C=O)=O']	['C(C(C(C=O)=O)(C(C=O)O)O)(O)=O']	Knoevenagel C
+1327_1	['C(C(C(C=O)=O)O)(O)=O', 'C(C=O)=O']	['C(C(C(C=O)=O)(C(C=O)O)O)(O)=O']	Knoevenagel H
+1329_0	['C(C=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C=O)O)O)=O']	Knoevenagel C
+1329_1	['C(C=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C=O)O)O)=O']	Knoevenagel H
+1331_0	['C(C=O)=O', 'C(CCO)(O)=O']	['C(C(CO)C(C=O)O)(O)=O']	Knoevenagel C
+1333_0	['C(C=O)=O', 'C(CC(C)O)(O)=O']	['C(C(C(C)O)C(C=O)O)(O)=O']	Knoevenagel C
+1335_0	['C(C=O)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(C=O)O)(O)=O']	Knoevenagel C
+1337_0	['C(C=O)=O', 'C(C(C(C)O)O)(O)=O']	['C(C(C(C)O)(C(C=O)O)O)(O)=O']	Knoevenagel C
+1337_1	['C(C=O)=O', 'C(C(C(C)O)O)(O)=O']	['C(C(C(C)O)(C(C=O)O)O)(O)=O']	Knoevenagel H
+1339_0	['C(C=O)=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(C(C=O)O)O)(O)=O']	Knoevenagel C
+1339_1	['C(C=O)=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(C(C=O)O)O)(O)=O']	Knoevenagel H
+1341_0	['C(C=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C=O)O)O)(O)=O']	Knoevenagel C
+1341_1	['C(C=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C=O)O)O)(O)=O']	Knoevenagel H
+1343_0	['C(C=O)=O', 'C(C(C(C)=O)CO)(O)=O']	['C(C)(C(C(O)=O)(CO)C(C=O)O)=O']	Knoevenagel C
+1345_0	['C(C(C=O)O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C(C=O)O)O)O)=O']	Knoevenagel C
+1345_1	['C(C(C=O)O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C(C=O)O)O)O)=O']	Knoevenagel H
+1347_0	['C(C(C=O)O)=O', 'C(CCO)(O)=O']	['C(C(CO)C(C(C=O)O)O)(O)=O']	Knoevenagel C
+1349_0	['C(C(C=O)O)=O', 'C(CO)(CO)=O']	['C(C(C=O)(C(CO)(CO)O)O)=O']	Knoevenagel C
+1349_1	['C(C(C=O)O)=O', 'C(CO)(CO)=O']	['C(C(C=O)(C(CO)(CO)O)O)=O']	Knoevenagel H
+1351_0	['C(C(C=O)O)=O', 'C(CC(C)O)(O)=O']	['C(C(C(C(C=O)O)O)C(C)O)(O)=O']	Knoevenagel C
+1353_0	['C(C(C=O)O)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(C(C=O)O)O)(O)=O']	Knoevenagel C
+1355_0	['C(C(C=O)O)=O', 'C(C(CO)=O)(O)=O']	['C(C(C=O)(C(C(O)=O)(CO)O)O)=O']	Knoevenagel C
+1355_1	['C(C(C=O)O)=O', 'C(C(CO)=O)(O)=O']	['C(C(C=O)(C(C(O)=O)(CO)O)O)=O']	Knoevenagel H
+1357_0	['C(C(C=O)O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C(C=O)O)O)O)(O)=O']	Knoevenagel C
+1357_1	['C(C(C=O)O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C(C=O)O)O)O)(O)=O']	Knoevenagel H
+1359_0	['C(C(C=O)O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C(C(O)=O)O)O)O)=O']	Knoevenagel C
+1359_1	['C(C(C=O)O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C(C(O)=O)O)O)O)=O']	Knoevenagel H
+1361_0	['C(C(C=O)O)=O', 'C(C)=CC=O']	['C(C(C=O)(C(C=CC)O)O)=O']	Knoevenagel C
+1361_1	['C(C(C=O)O)=O', 'C(C)=CC=O']	['C(C(C=O)(C(C=CC)O)O)=O']	Knoevenagel H
+1363_0	['C(C(C=O)O)=O', 'C(CC=C)=O']	['C(C(C=O)(C(CC=C)O)O)=O']	Knoevenagel C
+1363_1	['C(C(C=O)O)=O', 'C(CC=C)=O']	['C(C(C=O)(C(CC=C)O)O)=O']	Knoevenagel H
+1365_0	['C(CCO)(O)=O', 'C(CO)(CO)=O']	['C(C(CO)C(CO)(CO)O)(O)=O']	Knoevenagel C
+1367_0	['C(CCO)(O)=O', 'C(C(CO)=O)(O)=O']	['C(C(CO)C(C(O)=O)(CO)O)(O)=O']	Knoevenagel C
+1369_0	['C(CCO)(O)=O', 'C(C(C=O)O)(O)=O']	['C(C(CO)C(C(C(O)=O)O)O)(O)=O']	Knoevenagel C
+1371_0	['C(CCO)(O)=O', 'C(C)=CC=O']	['C(C(CO)C(C=CC)O)(O)=O']	Knoevenagel C
+1373_0	['C(CCO)(O)=O', 'C(CC=C)=O']	['C(C(CO)C(CC=C)O)(O)=O']	Knoevenagel C
+1375_0	['C(CO)(CO)=O', 'C(CC(C)O)(O)=O']	['C(C(C(C)O)C(CO)(CO)O)(O)=O']	Knoevenagel C
+1377_0	['C(CO)(CO)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(CO)(CO)O)(O)=O']	Knoevenagel C
+1379_0	['C(CO)(CO)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(CO)(CO)O)O)(O)=O']	Knoevenagel C
+1379_1	['C(CO)(CO)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(CO)(CO)O)O)(O)=O']	Knoevenagel H
+1381_0	['C(CC(C)O)(O)=O', 'C(C)=CC=O']	['C(C(C(C)O)C(C=CC)O)(O)=O']	Knoevenagel C
+1383_0	['C(CC(C)O)(O)=O', 'C(CC=C)=O']	['C(C(C(CC=C)O)C(C)O)(O)=O']	Knoevenagel C
+1385_0	['C(CC(O)=O)(O)=O', 'C(C)=CC=O']	['C(C(C(O)=O)C(C=CC)O)(O)=O']	Knoevenagel C
+1387_0	['C(CC(O)=O)(O)=O', 'C(CC=C)=O']	['C(C(C(O)=O)C(CC=C)O)(O)=O']	Knoevenagel C
+1389_0	['C(C(C(C)O)O)(O)=O', 'C(C)=CC=O']	['C(C(C(C)O)(C(C=CC)O)O)(O)=O']	Knoevenagel C
+1389_1	['C(C(C(C)O)O)(O)=O', 'C(C)=CC=O']	['C(C(C(C)O)(C(C=CC)O)O)(O)=O']	Knoevenagel H
+1391_0	['C(C(C(C)O)O)(O)=O', 'C(CC=C)=O']	['C(C(C(CC=C)O)(C(C)O)O)(O)=O']	Knoevenagel C
+1391_1	['C(C(C(C)O)O)(O)=O', 'C(CC=C)=O']	['C(C(C(CC=C)O)(C(C)O)O)(O)=O']	Knoevenagel H
+1393_0	['C(C(C(O)=O)O)(O)=O', 'C(C)=CC=O']	['C(C(C(O)=O)(C(C=CC)O)O)(O)=O']	Knoevenagel C
+1393_1	['C(C(C(O)=O)O)(O)=O', 'C(C)=CC=O']	['C(C(C(O)=O)(C(C=CC)O)O)(O)=O']	Knoevenagel H
+1395_0	['C(C(C(O)=O)O)(O)=O', 'C(CC=C)=O']	['C(C(C(O)=O)(C(CC=C)O)O)(O)=O']	Knoevenagel C
+1395_1	['C(C(C(O)=O)O)(O)=O', 'C(CC=C)=O']	['C(C(C(O)=O)(C(CC=C)O)O)(O)=O']	Knoevenagel H
+1397_0	['C(C(C=O)O)(O)=O', 'C(C)=CC=O']	['C(C(C=O)(C(C=CC)O)O)(O)=O']	Knoevenagel C
+1397_1	['C(C(C=O)O)(O)=O', 'C(C)=CC=O']	['C(C(C=O)(C(C=CC)O)O)(O)=O']	Knoevenagel H
+1399_0	['C(C(C=O)O)(O)=O', 'C(CC=C)=O']	['C(C(C=O)(C(CC=C)O)O)(O)=O']	Knoevenagel C
+1399_1	['C(C(C=O)O)(O)=O', 'C(CC=C)=O']	['C(C(C=O)(C(CC=C)O)O)(O)=O']	Knoevenagel H
+1401_0	['C(C(CO)O)(O)=O', 'C(CCO)=O']	['C(C(CO)(C(CCO)O)O)(O)=O']	Knoevenagel C
+1401_1	['C(C(CO)O)(O)=O', 'C(CCO)=O']	['C(C(CO)(C(CCO)O)O)(O)=O']	Knoevenagel H
+1402_0	['C(C(CO)O)(O)=O', 'C(C=O)=O']	['C(C(CO)(C(C=O)O)O)(O)=O']	Knoevenagel C
+1402_1	['C(C(CO)O)(O)=O', 'C(C=O)=O']	['C(C(CO)(C(C=O)O)O)(O)=O']	Knoevenagel H
+1403_0	['C(C(CO)O)(O)=O', 'C(C(C=O)O)=O']	['C(C(CO)(C(C(C=O)O)O)O)(O)=O']	Knoevenagel C
+1403_1	['C(C(CO)O)(O)=O', 'C(C(C=O)O)=O']	['C(C(CO)(C(C(C=O)O)O)O)(O)=O']	Knoevenagel H
+1404_0	['C(C(CO)O)(O)=O', 'C(CO)(CO)=O']	['C(C(CO)(C(CO)(CO)O)O)(O)=O']	Knoevenagel C
+1404_1	['C(C(CO)O)(O)=O', 'C(CO)(CO)=O']	['C(C(CO)(C(CO)(CO)O)O)(O)=O']	Knoevenagel H
+1406_0	['C(C(CO)O)(O)=O', 'C(C)=CC=O']	['C(C(CO)(C(C=CC)O)O)(O)=O']	Knoevenagel C
+1406_1	['C(C(CO)O)(O)=O', 'C(C)=CC=O']	['C(C(CO)(C(C=CC)O)O)(O)=O']	Knoevenagel H
+1408_0	['C(C(CO)O)(O)=O', 'C(CC=C)=O']	['C(C(CO)(C(CC=C)O)O)(O)=O']	Knoevenagel C
+1408_1	['C(C(CO)O)(O)=O', 'C(CC=C)=O']	['C(C(CO)(C(CC=C)O)O)(O)=O']	Knoevenagel H
+1410_0	['C(C)=O', 'C(C(CO)C(C)O)=O']	['C(C(CO)(C(C)O)C(C)O)=O']	Knoevenagel C
+1412_0	['C(C)=O', 'C(C(C=O)CO)(O)=O']	['C(C(C=O)(CO)C(C)O)(O)=O']	Knoevenagel C
+1414_0	['C(C)=O', 'C(C(C(CO)O)=O)=O']	['C(C(C(CO)(C(C)O)O)=O)=O']	Knoevenagel C
+1414_1	['C(C)=O', 'C(C(C(CO)O)=O)=O']	['C(C(C(CO)(C(C)O)O)=O)=O']	Knoevenagel H
+1416_0	['C(C)=O', 'C(C(C(C)O)C(C)O)=O']	['C(C(C(C)O)(C(C)O)C(C)O)=O']	Knoevenagel C
+1417_0	['C(C)=O', 'C(CC(CC=O)O)(O)=O']	['C(C(C(CC=O)O)C(C)O)(O)=O']	Knoevenagel C
+1419_0	['C(C)=O', 'C(C(C=O)C(C)O)(O)=O']	['C(C(C=O)(C(C)O)C(C)O)(O)=O']	Knoevenagel C
+1421_0	['C(C)=O', 'C(C(C(C(C)O)O)=O)=O']	['C(C(C(C(C)O)(C(C)O)O)=O)=O']	Knoevenagel C
+1421_1	['C(C)=O', 'C(C(C(C(C)O)O)=O)=O']	['C(C(C(C(C)O)(C(C)O)O)=O)=O']	Knoevenagel H
+1423_0	['C(C)=O', 'C(C(C(O)=O)C(O)=O)=O']	['C(C(C(O)=O)(C=O)C(C)O)(O)=O']	Knoevenagel C
+1425_0	['C(C)=O', 'C(C(C(C=O)=O)O)(O)=O']	['C(C(C(C=O)=O)(C(C)O)O)(O)=O']	Knoevenagel C
+1425_1	['C(C)=O', 'C(C(C(C=O)=O)O)(O)=O']	['C(C(C(C=O)=O)(C(C)O)O)(O)=O']	Knoevenagel H
+1427_0	['C(C)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C)O)O)=O']	Knoevenagel C
+1427_1	['C(C)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C)O)O)=O']	Knoevenagel H
+1428_0	['C(C)=O', 'C(CCO)(O)=O']	['C(C(CO)C(C)O)(O)=O']	Knoevenagel C
+1429_0	['C(C)=O', 'C(CC(C)O)(O)=O']	['C(C(C(C)O)C(C)O)(O)=O']	Knoevenagel C
+1430_0	['C(C)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(C)O)(O)=O']	Knoevenagel C
+1431_0	['C(C)=O', 'C(C(C)(CC(O)=O)O)(O)=O']	['C(C(C(C)O)C(C(O)=O)(C)O)(O)=O']	Knoevenagel C
+1433_0	['C(C)=O', 'C(C(C(C)O)O)(O)=O']	['C(C(C(C)O)(C(C)O)O)(O)=O']	Knoevenagel C
+1433_1	['C(C)=O', 'C(C(C(C)O)O)(O)=O']	['C(C(C(C)O)(C(C)O)O)(O)=O']	Knoevenagel H
+1435_0	['C(C)=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(C(C)O)O)(O)=O']	Knoevenagel C
+1435_1	['C(C)=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(C(C)O)O)(O)=O']	Knoevenagel H
+1437_0	['C(C)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C)O)O)(O)=O']	Knoevenagel C
+1437_1	['C(C)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C)O)O)(O)=O']	Knoevenagel H
+1439_0	['C(C)=O', 'C(C(C(C)=O)CO)(O)=O']	['C(C(C(C)=O)(CO)C(C)O)(O)=O']	Knoevenagel C
+1441_0	['C(C)=O', 'C(C(C(C(C)O)O)O)(O)=O']	['C(C(C(C)O)(C(C(C)O)O)O)(O)=O']	Knoevenagel C
+1441_1	['C(C)=O', 'C(C(C(C(C)O)O)O)(O)=O']	['C(C(C(C)O)(C(C(C)O)O)O)(O)=O']	Knoevenagel H
+1443_0	['C(C)=O', 'C(C(C(C(O)=O)O)O)(O)=O']	['C(C(C(C)O)(C(C(O)=O)O)O)(O)=O']	Knoevenagel C
+1443_1	['C(C)=O', 'C(C(C(C(O)=O)O)O)(O)=O']	['C(C(C(C)O)(C(C(O)=O)O)O)(O)=O']	Knoevenagel H
+1444_0	['C(=O)=O', 'C(C(CO)C(C)O)=O']	['C(C(C=O)(CO)C(C)O)(O)=O']	Knoevenagel C
+1446_0	['C(=O)=O', 'C(C(C=O)CO)(O)=O']	['C(C(C(O)=O)(C=O)CO)(O)=O']	Knoevenagel C
+1448_0	['C(=O)=O', 'C(C(C(CO)O)=O)=O']	['C(C(C(C=O)=O)(CO)O)(O)=O']	Knoevenagel C
+1448_1	['C(=O)=O', 'C(C(C(CO)O)=O)=O']	['C(C(C(C=O)=O)(CO)O)(O)=O']	Knoevenagel H
+1449_0	['C(=O)=O', 'C(C(C(C)O)C(C)O)=O']	['C(C(C=O)(C(C)O)C(C)O)(O)=O']	Knoevenagel C
+1450_0	['C(=O)=O', 'C(CC(CC=O)O)(O)=O']	['C(C(C(O)=O)C(CC=O)O)(O)=O']	Knoevenagel C
+1451_0	['C(=O)=O', 'C(C(C=O)C(C)O)(O)=O']	['C(C(C(O)=O)(C=O)C(C)O)(O)=O']	Knoevenagel C
+1452_0	['C(=O)=O', 'C(C(C(C(C)O)O)=O)=O']	['C(C(C(C=O)=O)(C(C)O)O)(O)=O']	Knoevenagel C
+1452_1	['C(=O)=O', 'C(C(C(C(C)O)O)=O)=O']	['C(C(C(C=O)=O)(C(C)O)O)(O)=O']	Knoevenagel H
+1454_0	['C(=O)=O', 'C(C(C(O)=O)C(O)=O)=O']	['C(C(C(O)=O)(C(O)=O)C(O)=O)=O']	Knoevenagel C
+1456_0	['C(=O)=O', 'C(C(C(C=O)=O)O)(O)=O']	['C(C(C(O)=O)(C(C=O)=O)O)(O)=O']	Knoevenagel C
+1456_1	['C(=O)=O', 'C(C(C(C=O)=O)O)(O)=O']	['C(C(C(O)=O)(C(C=O)=O)O)(O)=O']	Knoevenagel H
+1458_0	['C(=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C=O)O)(O)=O']	Knoevenagel C
+1458_1	['C(=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C=O)O)(O)=O']	Knoevenagel H
+1459_0	['C(=O)=O', 'C(CCO)(O)=O']	['C(C(C(O)=O)CO)(O)=O']	Knoevenagel C
+1460_0	['C(=O)=O', 'C(CC(C)O)(O)=O']	['C(C(C(O)=O)C(C)O)(O)=O']	Knoevenagel C
+1461_0	['C(=O)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(O)=O)(O)=O']	Knoevenagel C
+1462_0	['C(=O)=O', 'C(C(C)(CC(O)=O)O)(O)=O']	['C(C(C(O)=O)C(C(O)=O)(C)O)(O)=O']	Knoevenagel C
+1463_0	['C(=O)=O', 'C(C(C(C)O)O)(O)=O']	['C(C(C(O)=O)(C(C)O)O)(O)=O']	Knoevenagel C
+1463_1	['C(=O)=O', 'C(C(C(C)O)O)(O)=O']	['C(C(C(O)=O)(C(C)O)O)(O)=O']	Knoevenagel H
+1465_0	['C(=O)=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(C(O)=O)O)(O)=O']	Knoevenagel C
+1465_1	['C(=O)=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(C(O)=O)O)(O)=O']	Knoevenagel H
+1467_0	['C(=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C(O)=O)(C=O)O)(O)=O']	Knoevenagel C
+1467_1	['C(=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C(O)=O)(C=O)O)(O)=O']	Knoevenagel H
+1469_0	['C(=O)=O', 'C(C(C(C)=O)CO)(O)=O']	['C(C(C(O)=O)(C(C)=O)CO)(O)=O']	Knoevenagel C
+1471_0	['C(=O)=O', 'C(C(C(C(C)O)O)O)(O)=O']	['C(C(C(O)=O)(C(C(C)O)O)O)(O)=O']	Knoevenagel C
+1471_1	['C(=O)=O', 'C(C(C(C(C)O)O)O)(O)=O']	['C(C(C(O)=O)(C(C(C)O)O)O)(O)=O']	Knoevenagel H
+1473_0	['C(=O)=O', 'C(C(C(C(O)=O)O)O)(O)=O']	['C(C(C(O)=O)(C(C(O)=O)O)O)(O)=O']	Knoevenagel C
+1473_1	['C(=O)=O', 'C(C(C(C(O)=O)O)O)(O)=O']	['C(C(C(O)=O)(C(C(O)=O)O)O)(O)=O']	Knoevenagel H
+1475_0	['C(CC(C)O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(CC(C)O)O)O)=O']	Knoevenagel C
+1475_1	['C(CC(C)O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(CC(C)O)O)O)=O']	Knoevenagel H
+1476_0	['C(CC(C)O)=O', 'C(CCO)(O)=O']	['C(C(CO)C(CC(C)O)O)(O)=O']	Knoevenagel C
+1477_0	['C(CC(C)O)=O', 'C(CC(C)O)(O)=O']	['C(C(C(C)O)C(CC(C)O)O)(O)=O']	Knoevenagel C
+1478_0	['C(CC(C)O)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(CC(C)O)O)(O)=O']	Knoevenagel C
+1480_0	['C(CC(C)O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(CC(C)O)O)O)(O)=O']	Knoevenagel C
+1480_1	['C(CC(C)O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(CC(C)O)O)O)(O)=O']	Knoevenagel H
+1482_0	['C(CC(O)=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(CC(O)=O)O)O)=O']	Knoevenagel C
+1482_1	['C(CC(O)=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(CC(O)=O)O)O)=O']	Knoevenagel H
+1483_0	['C(CC(O)=O)=O', 'C(CCO)(O)=O']	['C(C(CO)C(CC(O)=O)O)(O)=O']	Knoevenagel C
+1484_0	['C(CC(O)=O)=O', 'C(CC(C)O)(O)=O']	['C(C(C(CC(O)=O)O)C(C)O)(O)=O']	Knoevenagel C
+1485_0	['C(CC(O)=O)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(CC(O)=O)O)(O)=O']	Knoevenagel C
+1487_0	['C(CC(O)=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(CC(O)=O)O)O)(O)=O']	Knoevenagel C
+1487_1	['C(CC(O)=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(CC(O)=O)O)O)(O)=O']	Knoevenagel H
+1489_0	['C(C(CO)=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C(CO)=O)O)O)=O']	Knoevenagel C
+1489_1	['C(C(CO)=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C(CO)=O)O)O)=O']	Knoevenagel H
+1491_0	['C(C(CO)=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C=O)(CO)O)O)=O']	Knoevenagel C
+1491_1	['C(C(CO)=O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C=O)(CO)O)O)=O']	Knoevenagel H
+1492_0	['C(C(CO)=O)=O', 'C(CCO)(O)=O']	['C(C(CO)C(C(CO)=O)O)(O)=O']	Knoevenagel C
+1493_0	['C(C(CO)=O)=O', 'C(CCO)(O)=O']	['C(C(CO)C(C=O)(CO)O)(O)=O']	Knoevenagel C
+1494_0	['C(C(CO)=O)=O', 'C(CC(C)O)(O)=O']	['C(C(C(C)O)C(C(CO)=O)O)(O)=O']	Knoevenagel C
+1495_0	['C(C(CO)=O)=O', 'C(CC(C)O)(O)=O']	['C(C(C(C)O)C(C=O)(CO)O)(O)=O']	Knoevenagel C
+1496_0	['C(C(CO)=O)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(C(CO)=O)O)(O)=O']	Knoevenagel C
+1497_0	['C(C(CO)=O)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(C=O)(CO)O)(O)=O']	Knoevenagel C
+1499_0	['C(C(CO)=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C(CO)=O)O)O)(O)=O']	Knoevenagel C
+1499_1	['C(C(CO)=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C(CO)=O)O)O)(O)=O']	Knoevenagel H
+1501_0	['C(C(CO)=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C=O)(CO)O)O)(O)=O']	Knoevenagel C
+1501_1	['C(C(CO)=O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C=O)(CO)O)O)(O)=O']	Knoevenagel H
+1503_0	['C=O', 'C(C(CO)C(C)O)=O']	['C(C(CO)(CO)C(C)O)=O']	Knoevenagel C
+1505_0	['C=O', 'C(C(C=O)CO)(O)=O']	['C(C(C=O)(CO)CO)(O)=O']	Knoevenagel C
+1507_0	['C=O', 'C(C(C(CO)C(C)O)=O)(O)=O']	['C(C(C(CO)(CO)C(C)O)=O)(O)=O']	Knoevenagel C
+1509_0	['C=O', 'C(C(CO)C(C(O)=O)(C)O)=O']	['C(C(CO)(CO)C(C(O)=O)(C)O)=O']	Knoevenagel C
+1511_0	['C=O', 'C(C(C(C(O)=O)=O)CO)(O)=O']	['C(C(C(C(O)=O)=O)(CO)CO)(O)=O']	Knoevenagel C
+1513_0	['C=O', 'C(C(C(CO)O)=O)=O']	['C(C(C(CO)(CO)O)=O)=O']	Knoevenagel C
+1513_1	['C=O', 'C(C(C(CO)O)=O)=O']	['C(C(C(CO)(CO)O)=O)=O']	Knoevenagel H
+1514_0	['C=O', 'C(C(C(C)O)C(C)O)=O']	['C(C(CO)(C(C)O)C(C)O)=O']	Knoevenagel C
+1515_0	['C=O', 'C(CC(CC=O)O)(O)=O']	['C(C(CO)C(CC=O)O)(O)=O']	Knoevenagel C
+1516_0	['C=O', 'C(C(C=O)C(C)O)(O)=O']	['C(C(C=O)(CO)C(C)O)(O)=O']	Knoevenagel C
+1517_0	['C=O', 'C(C(C(C(C)O)O)=O)=O']	['C(C(C(CO)(C(C)O)O)=O)=O']	Knoevenagel C
+1517_1	['C=O', 'C(C(C(C(C)O)O)=O)=O']	['C(C(C(CO)(C(C)O)O)=O)=O']	Knoevenagel H
+1518_0	['C=O', 'C(C(C(O)=O)C(O)=O)=O']	['C(C(C(O)=O)(C=O)CO)(O)=O']	Knoevenagel C
+1519_0	['C=O', 'C(C(C(C=O)=O)O)(O)=O']	['C(C(C(C=O)=O)(CO)O)(O)=O']	Knoevenagel C
+1519_1	['C=O', 'C(C(C(C=O)=O)O)(O)=O']	['C(C(C(C=O)=O)(CO)O)(O)=O']	Knoevenagel H
+1520_0	['C=O', 'C(C(C=O)O)=O']	['C(C(C=O)(CO)O)=O']	Knoevenagel C
+1520_1	['C=O', 'C(C(C=O)O)=O']	['C(C(C=O)(CO)O)=O']	Knoevenagel H
+1521_0	['C=O', 'C(CCO)(O)=O']	['C(C(CO)CO)(O)=O']	Knoevenagel C
+1522_0	['C=O', 'C(CC(C)O)(O)=O']	['C(C(CO)C(C)O)(O)=O']	Knoevenagel C
+1523_0	['C=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)CO)(O)=O']	Knoevenagel C
+1524_0	['C=O', 'C(C(C)(CC(O)=O)O)(O)=O']	['C(C(CO)C(C(O)=O)(C)O)(O)=O']	Knoevenagel C
+1525_0	['C=O', 'C(C(C(CC(C)O)O)O)(O)=O']	['C(C(CO)(C(CC(C)O)O)O)(O)=O']	Knoevenagel C
+1525_1	['C=O', 'C(C(C(CC(C)O)O)O)(O)=O']	['C(C(CO)(C(CC(C)O)O)O)(O)=O']	Knoevenagel H
+1526_0	['C=O', 'C(CC(C(C(O)=O)O)O)(O)=O']	['C(C(CO)C(C(C(O)=O)O)O)(O)=O']	Knoevenagel C
+1527_0	['C=O', 'C(CC(C(C(O)=O)O)O)(O)=O']	['C(C(CO)(C(CC(O)=O)O)O)(O)=O']	Knoevenagel C
+1527_1	['C=O', 'C(CC(C(C(O)=O)O)O)(O)=O']	['C(C(CO)(C(CC(O)=O)O)O)(O)=O']	Knoevenagel H
+1529_0	['C=O', 'C(C(C(C(CO)=O)O)O)(O)=O']	['C(CO)(C(CO)(C(C(O)=O)O)O)=O']	Knoevenagel C
+1529_1	['C=O', 'C(C(C(C(CO)=O)O)O)(O)=O']	['C(CO)(C(CO)(C(C(O)=O)O)O)=O']	Knoevenagel H
+1530_0	['C=O', 'C(C(C(C(CO)=O)O)O)(O)=O']	['C(C(CO)(C(C(CO)=O)O)O)(O)=O']	Knoevenagel C
+1530_1	['C=O', 'C(C(C(C(CO)=O)O)O)(O)=O']	['C(C(CO)(C(C(CO)=O)O)O)(O)=O']	Knoevenagel H
+1531_0	['C=O', 'C(C(CO)(C(C(O)=O)O)O)=O']	['C(C(CO)(C(C=O)(CO)O)O)(O)=O']	Knoevenagel C
+1531_1	['C=O', 'C(C(CO)(C(C(O)=O)O)O)=O']	['C(C(CO)(C(C=O)(CO)O)O)(O)=O']	Knoevenagel H
+1532_0	['C=O', 'C(C(C(C)O)O)(O)=O']	['C(C(CO)(C(C)O)O)(O)=O']	Knoevenagel C
+1532_1	['C=O', 'C(C(C(C)O)O)(O)=O']	['C(C(CO)(C(C)O)O)(O)=O']	Knoevenagel H
+1533_0	['C=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(CO)O)(O)=O']	Knoevenagel C
+1533_1	['C=O', 'C(C(C(O)=O)O)(O)=O']	['C(C(C(O)=O)(CO)O)(O)=O']	Knoevenagel H
+1534_0	['C=O', 'C(C(C)(C(C(O)=O)O)O)(O)=O']	['C(C(CO)(C(C(O)=O)(C)O)O)(O)=O']	Knoevenagel C
+1534_1	['C=O', 'C(C(C)(C(C(O)=O)O)O)(O)=O']	['C(C(CO)(C(C(O)=O)(C)O)O)(O)=O']	Knoevenagel H
+1536_0	['C=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(CO)O)(O)=O']	Knoevenagel C
+1536_1	['C=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(CO)O)(O)=O']	Knoevenagel H
+1538_0	['C=O', 'C(C(C(C)=O)CO)(O)=O']	['C(C(C(C)=O)(CO)CO)(O)=O']	Knoevenagel C
+1540_0	['C=O', 'C(C(C(C(C)O)O)O)(O)=O']	['C(C(CO)(C(C(C)O)O)O)(O)=O']	Knoevenagel C
+1540_1	['C=O', 'C(C(C(C(C)O)O)O)(O)=O']	['C(C(CO)(C(C(C)O)O)O)(O)=O']	Knoevenagel H
+1541_0	['C=O', 'C(C(C(C(O)=O)O)O)(O)=O']	['C(C(CO)(C(C(O)=O)O)O)(O)=O']	Knoevenagel C
+1541_1	['C=O', 'C(C(C(C(O)=O)O)O)(O)=O']	['C(C(CO)(C(C(O)=O)O)O)(O)=O']	Knoevenagel H
+1543_0	['C(C(C)=O)(O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C(O)=O)(C)O)O)=O']	Knoevenagel C
+1543_1	['C(C(C)=O)(O)=O', 'C(C(C=O)O)=O']	['C(C(C=O)(C(C(O)=O)(C)O)O)=O']	Knoevenagel H
+1544_0	['C(C(C)=O)(O)=O', 'C(CCO)(O)=O']	['C(C(CO)C(C(O)=O)(C)O)(O)=O']	Knoevenagel C
+1545_0	['C(C(C)=O)(O)=O', 'C(CC(C)O)(O)=O']	['C(C(C(C)O)C(C(O)=O)(C)O)(O)=O']	Knoevenagel C
+1546_0	['C(C(C)=O)(O)=O', 'C(CC(O)=O)(O)=O']	['C(C(C(O)=O)C(C(O)=O)(C)O)(O)=O']	Knoevenagel C
+1548_0	['C(C(C)=O)(O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C(O)=O)(C)O)O)(O)=O']	Knoevenagel C
+1548_1	['C(C(C)=O)(O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C=O)(C(C(O)=O)(C)O)O)(O)=O']	Knoevenagel H
+1550_0	['C(CC(C(CO)=O)O)=O', 'C(C=O)=O']	['C(CC(C(CO)=O)(C(C=O)O)O)=O']	Knoevenagel H
+1552_0	['C(CCO)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(CCO)O)O)(O)=O']	Knoevenagel H
+1554_0	['C(C(CO)=O)(C(C)O)=O', 'C(C=O)=O']	['C(C(C(C(C(CO)=O)=O)(C)O)O)=O']	Knoevenagel H
+1556_0	['C(C=O)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(C=O)O)O)(O)=O']	Knoevenagel H
+1558_0	['C(C(C=O)O)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(C(C=O)O)O)O)(O)=O']	Knoevenagel H
+1560_0	['C(CO)(CO)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(CO)(CO)O)O)(O)=O']	Knoevenagel H
+1561_0	['C(C(CO)=O)(O)=O', 'C(C(C)O)(O)=O']	['C(C(CO)(C(C(O)=O)(C)O)O)(O)=O']	Knoevenagel H
+1562_0	['C(C(C)O)(O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C)(C(C(C(O)=O)O)O)O)(O)=O']	Knoevenagel H
+1564_0	['C(C(C)O)(O)=O', 'C(C)=CC=O']	['C(C(C)(C(C=CC)O)O)(O)=O']	Knoevenagel H
+1566_0	['C(C(C)O)(O)=O', 'C(CC=C)=O']	['C(C(C)(C(CC=C)O)O)(O)=O']	Knoevenagel H
+1567_0	['C(C)=O', 'C(CC(C(CO)=O)O)=O']	['C(CO)(C(C(C)O)(CC=O)O)=O']	Knoevenagel H
+1569_0	['C(C)=O', 'C(C(CO)=O)(C(C)O)=O']	['C(C(CO)=O)(C(C)(C(C)O)O)=O']	Knoevenagel H
+1571_0	['C(C)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(C)O)O)(O)=O']	Knoevenagel H
+1572_0	['C(=O)=O', 'C(CC(C(CO)=O)O)=O']	['C(C(C(CO)=O)(CC=O)O)(O)=O']	Knoevenagel H
+1573_0	['C(=O)=O', 'C(C(CO)=O)(C(C)O)=O']	['C(C(C(C(CO)=O)=O)(C)O)(O)=O']	Knoevenagel H
+1574_0	['C(=O)=O', 'C(C(C)O)(O)=O']	['C(C(C(O)=O)(C)O)(O)=O']	Knoevenagel H
+1576_0	['C(CC(C)O)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(CC(C)O)O)O)(O)=O']	Knoevenagel H
+1578_0	['C(CC(O)=O)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(CC(O)=O)O)O)(O)=O']	Knoevenagel H
+1579_0	['C(C(CO)=O)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(C(CO)=O)O)O)(O)=O']	Knoevenagel H
+1581_0	['C(C(CO)=O)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(C=O)(CO)O)O)(O)=O']	Knoevenagel H
+1583_0	['C=O', 'C(CC(C(CO)=O)O)=O']	['C(CO)(C(CO)(CC=O)O)=O']	Knoevenagel H
+1585_0	['C=O', 'C(C(CO)=O)(C(C)O)=O']	['C(C(CO)=O)(C(CO)(C)O)=O']	Knoevenagel H
+1586_0	['C=O', 'C(C(C)O)(O)=O']	['C(C(CO)(C)O)(O)=O']	Knoevenagel H
+1588_0	['C(CO)(O)=O', 'C(C(CO)C(C)O)=O']	['C(C(C(C(CO)C(C)O)O)O)(O)=O']	Knoevenagel H
+1589_0	['C(CO)(O)=O', 'C(C(C=O)CO)(O)=O']	['C(C(CO)C(C(C(O)=O)O)O)(O)=O']	Knoevenagel H
+1590_0	['C(CO)(O)=O', 'C(C(C(CO)O)=O)=O']	['C(C(C(C(O)=O)O)O)(C(CO)O)=O']	Knoevenagel H
+1592_0	['C(CO)(O)=O', 'C(C(C(CO)O)=O)=O']	['C(C(C(CO)O)(C(C(O)=O)O)O)=O']	Knoevenagel H
+1594_0	['C(CO)(O)=O', 'C(CCO)=O']	['C(C(C(CCO)O)O)(O)=O']	Knoevenagel H
+1596_0	['C(CO)(O)=O', 'C(C(CCO)=O)(O)=O']	['C(C(CCO)(C(C(O)=O)O)O)(O)=O']	Knoevenagel H
+1598_0	['C(CO)(O)=O', 'C(CC(C(C)=O)=O)=O']	['C(C(C(C(C)=O)(CC=O)O)O)(O)=O']	Knoevenagel H
+1600_0	['C(CO)(O)=O', 'C(CC(C(C)=O)=O)=O']	['C(C(C)(C(C(O)=O)O)O)(CC=O)=O']	Knoevenagel H
+1602_0	['C(CO)(O)=O', 'C(CC(C(C)=O)=O)=O']	['C(C(C(CC(C(C)=O)=O)O)O)(O)=O']	Knoevenagel H
+1603_0	['C(CO)(O)=O', 'C(C=O)=O']	['C(C(C(C=O)O)O)(O)=O']	Knoevenagel H
+1604_0	['C(CO)(O)=O', 'C(C(C=O)O)=O']	['C(C(C(C(C=O)O)O)O)(O)=O']	Knoevenagel H
+1605_0	['C(CO)(O)=O', 'C(CO)(CO)=O']	['C(C(C(CO)(CO)O)O)(O)=O']	Knoevenagel H
+1606_0	['C(CO)(O)=O', 'C(C(CO)=O)(O)=O']	['C(C(CO)(C(C(O)=O)O)O)(O)=O']	Knoevenagel H
+1607_0	['C(CO)(O)=O', 'C(C(C=O)(C)O)(O)=O']	['C(C(C)(C(C(C(O)=O)O)O)O)(O)=O']	Knoevenagel H
+1609_0	['C(CO)(O)=O', 'C(C(C=O)O)(O)=O']	['C(C(C(C(C(O)=O)O)O)O)(O)=O']	Knoevenagel H
+1611_0	['C(CO)(O)=O', 'C(C)=CC=O']	['C(C(C(C=CC)O)O)(O)=O']	Knoevenagel H
+1613_0	['C(CO)(O)=O', 'C(CC=C)=O']	['C(C(C(CC=C)O)O)(O)=O']	Knoevenagel H
+1615_0	['C(CO)(O)=O', 'C(C)=CC(C(O)=O)=O']	['C(C(C=CC)(C(C(O)=O)O)O)(O)=O']	Knoevenagel H
+1617_0	['C(CO)(O)=O', 'C=CCC(C(O)=O)=O']	['C(C(C(C(O)=O)(CC=C)O)O)(O)=O']	Knoevenagel H
+1619_0	['C(CO)(O)=O', 'C(CC(C(O)=O)=C)=O']	['C(C(C(CC(C(O)=O)=C)O)O)(O)=O']	Knoevenagel H
+1621_0	['C(CO)(O)=O', 'C(C=C(C(O)=O)C)=O']	['C(C(C(C=C(C(O)=O)C)O)O)(O)=O']	Knoevenagel H
+1623_0	['C(CO)(O)=O', 'C1(C(OC(C)C1)=O)=O']	['C1(C(CC(C)O1)(C(C(O)=O)O)O)=O']	Knoevenagel H
+1625_0	['C(CO)(O)=O', 'C1(CC(C(O1)=O)=O)=O']	['C1(CC(C(O1)=O)(C(C(O)=O)O)O)=O']	Knoevenagel H
+1627_0	['C(C(C)=O)(O)=O', 'C(C(C)O)(O)=O']	['C(C(C)(C(C(O)=O)(C)O)O)(O)=O']	Knoevenagel H
+1628_0	['C(C(CO)(C(CC(C)O)O)O)(O)=O']	['C=O', 'C(C(C(CC(C)O)O)O)(O)=O']	Knoevenagel C (inverse)
+1628_1	['C(C(CO)(C(CC(C)O)O)O)(O)=O']	['C=O', 'C(C(C(CC(C)O)O)O)(O)=O']	Knoevenagel H (inv)
+1629_0	['C(C(CO)(C(CC(C)O)O)O)(O)=O']	['C(C(CO)O)(O)=O', 'C(CC(C)O)=O']	Knoevenagel C (inverse)
+1629_1	['C(C(CO)(C(CC(C)O)O)O)(O)=O']	['C(C(CO)O)(O)=O', 'C(CC(C)O)=O']	Knoevenagel H (inv)
+1630_0	['C(C(CO)(C(CC(O)=O)O)O)(O)=O']	['C=O', 'C(CC(C(C(O)=O)O)O)(O)=O']	Knoevenagel C (inverse)
+1630_1	['C(C(CO)(C(CC(O)=O)O)O)(O)=O']	['C=O', 'C(CC(C(C(O)=O)O)O)(O)=O']	Knoevenagel H (inv)
+1631_0	['C(C(CO)(C(CC(O)=O)O)O)(O)=O']	['C(C(CO)O)(O)=O', 'C(CC(O)=O)=O']	Knoevenagel C (inverse)
+1631_1	['C(C(CO)(C(CC(O)=O)O)O)(O)=O']	['C(C(CO)O)(O)=O', 'C(CC(O)=O)=O']	Knoevenagel H (inv)
+1632_0	['C(C(CO)(C(C(CO)=O)O)O)(O)=O']	['C=O', 'C(C(C(C(CO)=O)O)O)(O)=O']	Knoevenagel C (inverse)
+1632_1	['C(C(CO)(C(C(CO)=O)O)O)(O)=O']	['C=O', 'C(C(C(C(CO)=O)O)O)(O)=O']	Knoevenagel H (inv)
+1633_0	['C(C(CO)(C(C(CO)=O)O)O)(O)=O']	['C(C(CO)O)(O)=O', 'C(C(CO)=O)=O']	Knoevenagel C (inverse)
+1633_1	['C(C(CO)(C(C(CO)=O)O)O)(O)=O']	['C(C(CO)O)(O)=O', 'C(C(CO)=O)=O']	Knoevenagel H (inv)
+1634_0	['C(C(CO)(C(C=O)(CO)O)O)(O)=O']	['C=O', 'C(C(CO)(C(C(O)=O)O)O)=O']	Knoevenagel C (inverse)
+1634_1	['C(C(CO)(C(C=O)(CO)O)O)(O)=O']	['C=O', 'C(C(CO)(C(C(O)=O)O)O)=O']	Knoevenagel H (inv)
+1635_0	['C(C(CO)(C(C=O)(CO)O)O)(O)=O']	['C(C(CO)O)(O)=O', 'C(C(CO)=O)=O']	Knoevenagel C (inverse)
+1635_1	['C(C(CO)(C(C=O)(CO)O)O)(O)=O']	['C(C(CO)O)(O)=O', 'C(C(CO)=O)=O']	Knoevenagel H (inv)
+1636_0	['C(C(CO)(CO)O)(O)=O']	['C(C(CO)O)(O)=O', 'C=O']	Knoevenagel C (inverse)
+1636_1	['C(C(CO)(CO)O)(O)=O']	['C(C(CO)O)(O)=O', 'C=O']	Knoevenagel H (inv)
+1638_0	['C1(C(C)(C(C(O)=O)(CO1)O)O)=O']	['C(C(COC(C(C)=O)=O)O)(O)=O']	Knoevenagel C (inverse)
+1638_1	['C1(C(C)(C(C(O)=O)(CO1)O)O)=O']	['C(C(COC(C(C)=O)=O)O)(O)=O']	Knoevenagel H (inv)
+1640_0	['C1(C(CO)(C(C(O1)=O)(C)O)O)=O']	['C(C(CO)O)(OC(C(C)=O)=O)=O']	Knoevenagel C (inverse)
+1640_1	['C1(C(CO)(C(C(O1)=O)(C)O)O)=O']	['C(C(CO)O)(OC(C(C)=O)=O)=O']	Knoevenagel H (inv)
+1642_0	['C1(C(CO)(C(C(O1)=O)(C)O)O)=O']	['C=O', 'C1(C(C)(C(C(O1)=O)O)O)=O']	Knoevenagel C (inverse)
+1642_1	['C1(C(CO)(C(C(O1)=O)(C)O)O)=O']	['C=O', 'C1(C(C)(C(C(O1)=O)O)O)=O']	Knoevenagel H (inv)
+1643_0	['C(C(C)(C(C(C=O)=O)O)O)(O)=O']	['C(C(C)O)(O)=O', 'C(C(C=O)=O)=O']	Knoevenagel H (inv)
+1644_0	['C(C(C(C(C(C)=O)=O)O)O)(O)=O']	['C(CO)(O)=O', 'C(C(C(C)=O)=O)=O']	Knoevenagel H (inv)
+1645_0	['C(C(C(CC(C)O)O)O)(O)=O']	['C(CC(C)O)=O', 'C(CO)(O)=O']	Knoevenagel H (inv)
+1646_0	['C(CC(C(C(O)=O)O)O)(O)=O']	['C(CC(O)=O)=O', 'C(CO)(O)=O']	Knoevenagel H (inv)
+1647_0	['C(C(C(C(CO)=O)O)O)(O)=O']	['C(C(CO)=O)=O', 'C(CO)(O)=O']	Knoevenagel H (inv)
+1648_0	['C(C(CO)(C(C(O)=O)O)O)=O']	['C(C(CO)=O)=O', 'C(CO)(O)=O']	Knoevenagel H (inv)
+1649_0	['C(C(C(C)O)O)(O)=O']	['C(C)=O', 'C(CO)(O)=O']	Knoevenagel H (inv)
+1650_0	['C(C(C)(C(C(O)=O)O)O)(O)=O']	['C(C(C)O)(O)=O', 'C(C(O)=O)=O']	Knoevenagel H (inv)
+1651_0	['C(C(C)(C(C(O)=O)O)O)(O)=O']	['C(C(C)=O)(O)=O', 'C(CO)(O)=O']	Knoevenagel H (inv)
+1653_0	['C(C(C=C)(CO)O)(O)=O']	['C=O', 'C(C(C=C)O)(O)=O']	Knoevenagel H (inv)
+1655_0	['C(C(C(C(O)=O)=C)(CO)O)(O)=O']	['C=O', 'C(C(C(C(O)=O)=C)O)(O)=O']	Knoevenagel H (inv)
+1657_0	['C(C(C(C(C(O)=O)=C)O)O)(O)=O']	['C(CO)(O)=O', 'C=C(C=O)C(O)=O']	Knoevenagel H (inv)
+1658_0	['C(C(C(C(C)O)O)O)(O)=O']	['C(CO)(O)=O', 'C(C(C)O)=O']	Knoevenagel H (inv)
+1659_0	['C(C(C)(C(CO)O)O)(O)=O']	['C(C(C)O)(O)=O', 'C(CO)=O']	Knoevenagel H (inv)
+1660_0	['C(C(C(C(O)=O)O)O)(O)=O']	['C(CO)(O)=O', 'C(C(O)=O)=O']	Knoevenagel H (inv)
+1662_0	['C(C1(C)C(C(C(O1)=O)O)O)(O)=O']	['C(C(C=O)(C)OC(CO)=O)(O)=O']	Knoevenagel H (inv)
+1664_0	['C(C1(C)C(C(C(O1)=O)O)O)(O)=O']	['C(C(C=O)O)(OC(C(O)=O)C)=O']	Knoevenagel H (inv)
+1666_0	['C1(C(C)(C(C(C(O1)=O)O)O)O)=O']	['C(C(C=O)(C)O)(OC(CO)=O)=O']	Knoevenagel H (inv)
+1668_0	['C1(C(C)(C(C(C(O1)=O)O)O)O)=O']	['C(C(C=O)O)(OC(C(C)O)=O)=O']	Knoevenagel H (inv)
+1670_0	['C1(C(C)(C(C(O)=O)(CO1)O)O)=O']	['C(C(C)O)(OCC(C(O)=O)=O)=O']	Knoevenagel H (inv)
+1672_0	['C1(C(CO)(C(C(O1)=O)(C)O)O)=O']	['C(C(C)O)(OC(C(CO)=O)=O)=O']	Knoevenagel H (inv)
+1674_0	['C1(C(C)(C(C(C(O)=O)O1)O)O)=O']	['C(C(C=O)(C)O)(OCC(O)=O)=O']	Knoevenagel H (inv)
+1676_0	['C1(C(C)(C(C(C(O)=O)O1)O)O)=O']	['C(C(C=O)OC(C(C)O)=O)(O)=O']	Knoevenagel H (inv)
+1678_0	['C(C(C(C)O)C(C=O)(CO)O)=O']	['O', 'C(C(C=O)C(C=O)C(C)O)=O']	Elimination + enol to keto
+1680_0	['C(C(C(C(CC(C)O)O)O)=O)=O']	['O', 'C(CC(C)O)(CC(C=O)=O)=O']	Elimination + enol to keto
+1682_0	['C(C(C(C(CC(C)O)O)O)=O)=O']	['O', 'C(C(C(CCC(C)O)=O)=O)=O']	Elimination + enol to keto
+1684_0	['C(C(C=O)C(C=O)(CO)O)(O)=O']	['O', 'C(C(C=O)C(C=O)C(O)=O)=O']	Elimination + enol to keto
+1686_0	['C(CC(C(C(C=O)=O)O)O)(O)=O']	['O', 'C(CC(CC(C=O)=O)=O)(O)=O']	Elimination + enol to keto
+1688_0	['C(CC(C(C(C=O)=O)O)O)(O)=O']	['O', 'C(CCC(C(C=O)=O)=O)(O)=O']	Elimination + enol to keto
+1690_0	['C(CO)(C(C(C(C=O)=O)O)O)=O']	['O', 'C(CO)(CC(C(C=O)=O)=O)=O']	Elimination + enol to keto
+1692_0	['C(CO)(C(C(C(C=O)=O)O)O)=O']	['O', 'C(C(CC(C(CO)=O)=O)=O)=O']	Elimination + enol to keto
+1694_0	['C(C(CO)(C(C(C=O)=O)O)O)=O']	['O', 'C(C(C(C(C=O)=O)=O)CO)=O']	Elimination + enol to keto
+1696_0	['C(C(CO)(C(C(C=O)=O)O)O)=O']	['O', 'C(C(C=O)C(C(C=O)=O)O)=O']	Elimination + enol to keto
+1697_0	['C(C(C(CO)O)=O)=O']	['O', 'C(C(C(C)=O)=O)=O']	Elimination + enol to keto
+1699_0	['C(C(C(CO)O)=O)=O']	['O', 'C(CC(C=O)=O)=O']	Elimination + enol to keto
+1701_0	['C(C(CO)(CC=O)O)=O']	['O', 'C(C(C=O)CC=O)=O']	Elimination + enol to keto
+1703_0	['C(C(C(C(C)O)O)=O)=O']	['O', 'C(C)(CC(C=O)=O)=O']	Elimination + enol to keto
+1705_0	['C(C(C(C(C)O)O)=O)=O']	['O', 'C(C(C(CC)=O)=O)=O']	Elimination + enol to keto
+1707_0	['C(C(CO)(CC(C(O)=O)=O)O)=O']	['O', 'C(C(C=O)CC(C(O)=O)=O)=O']	Elimination + enol to keto
+1708_0	['C(C(C)(C(C(C=O)=O)O)O)(O)=O']	['O', 'C(C(C(C(C=O)=O)=O)C)(O)=O']	Elimination + enol to keto
+1709_0	['C(C(C(C(C)=O)=O)(CO)O)(O)=O']	['O', 'C(C(C(O)=O)C(C(C)=O)=O)=O']	Elimination + enol to keto
+1710_0	['C(C(C(C(C(C)=O)=O)O)O)(O)=O']	['O', 'C(CC(C(C(C)=O)=O)=O)(O)=O']	Elimination + enol to keto
+1711_0	['C(C(C(C(C(C)=O)=O)O)O)(O)=O']	['O', 'C(C(O)=O)(CC(C(C)=O)=O)=O']	Elimination + enol to keto
+1712_0	['C(C(CO)(C(CC(C)O)O)O)(O)=O']	['O', 'C(C(C=O)C(CC(C)O)O)(O)=O']	Elimination + enol to keto
+1713_0	['C(C(CO)(C(CC(C)O)O)O)(O)=O']	['O', 'C(C(C(CC(C)O)=O)CO)(O)=O']	Elimination + enol to keto
+1714_0	['C(C(CO)(C(CC(O)=O)O)O)(O)=O']	['O', 'C(C(C=O)C(CC(O)=O)O)(O)=O']	Elimination + enol to keto
+1715_0	['C(C(CO)(C(CC(O)=O)O)O)(O)=O']	['O', 'C(C(C(CC(O)=O)=O)CO)(O)=O']	Elimination + enol to keto
+1716_0	['C(C(CO)(C(C(CO)=O)O)O)(O)=O']	['O', 'C(C(C=O)C(C(CO)=O)O)(O)=O']	Elimination + enol to keto
+1718_0	['C(C(CO)(C(C(CO)=O)O)O)(O)=O']	['O', 'C(C(C(C(CO)=O)=O)CO)(O)=O']	Elimination + enol to keto
+1719_0	['C(C(CO)(C(C=O)(CO)O)O)(O)=O']	['O', 'C(C(C=O)C(C=O)(CO)O)(O)=O']	Elimination + enol to keto
+1721_0	['C(C(CO)(C(C=O)(CO)O)O)(O)=O']	['O', 'C(C(C=O)C(C(O)=O)(CO)O)=O']	Elimination + enol to keto
+1722_0	['C(C(CO)(CO)O)(O)=O']	['O', 'C(C(C=O)CO)(O)=O']	Elimination + enol to keto
+1724_0	['C(C(C(CC(C)O)O)O)(O)=O']	['O', 'C(CC(CC(C)O)=O)(O)=O']	Elimination + enol to keto
+1726_0	['C(C(C(CC(C)O)O)O)(O)=O']	['O', 'C(C(CCC(C)O)=O)(O)=O']	Elimination + enol to keto
+1728_0	['C(CC(C(C(O)=O)O)O)(O)=O']	['O', 'C(CC(CC(O)=O)=O)(O)=O']	Elimination + enol to keto
+1730_0	['C(CC(C(C(O)=O)O)O)(O)=O']	['O', 'C(CCC(C(O)=O)=O)(O)=O']	Elimination + enol to keto
+1732_0	['C(C(C(C(CO)=O)O)O)(O)=O']	['O', 'C(CC(C(CO)=O)=O)(O)=O']	Elimination + enol to keto
+1733_0	['C(C(C(C(CO)=O)O)O)(O)=O']	['O', 'C(CO)(CC(C(O)=O)=O)=O']	Elimination + enol to keto
+1735_0	['C(C(CO)(C(C(O)=O)O)O)=O']	['O', 'C(C(C=O)C(C(O)=O)O)=O']	Elimination + enol to keto
+1737_0	['C(C(CO)(C(C(O)=O)O)O)=O']	['O', 'C(C(C(C(O)=O)=O)CO)=O']	Elimination + enol to keto
+1738_0	['C(C(C(C)O)O)(O)=O']	['O', 'C(CC(C)=O)(O)=O']	Elimination + enol to keto
+1740_0	['C(C(C(C)O)O)(O)=O']	['O', 'C(C(O)=O)(CC)=O']	Elimination + enol to keto
+1742_0	['C(C(C)(C(C(O)=O)O)O)(O)=O']	['O', 'C(C(C(C(O)=O)=O)C)(O)=O']	Elimination + enol to keto
+1743_0	['C(C(C=C)(CO)O)(O)=O']	['O', 'C(C(C(O)=O)C=C)=O']	Elimination + enol to keto
+1744_0	['C(C(C(C(O)=O)=C)(CO)O)(O)=O']	['O', 'C(C(C(O)=O)C(C(O)=O)=C)=O']	Elimination + enol to keto
+1746_0	['C(C(C(C(C(O)=O)=C)O)O)(O)=O']	['O', 'C(CC(C(C(O)=O)=C)=O)(O)=O']	Elimination + enol to keto
+1747_0	['C(C(C(C(C(O)=O)=C)O)O)(O)=O']	['O', 'C=C(C(O)=O)CC(C(O)=O)=O']	Elimination + enol to keto
+1749_0	['CC(C(CO)O)O']	['O', 'C(C)(C(C)O)=O']	Elimination + enol to keto
+1751_0	['CC(C(CO)O)O']	['O', 'C(CO)(CC)=O']	Elimination + enol to keto
+1752_0	['CC(C(CO)O)O']	['O', 'C(CC(C)O)=O']	Elimination + enol to keto
+1753_0	['CC(C(CO)O)O']	['O', 'C(C)(CCO)=O']	Elimination + enol to keto
+1754_0	['C(C(C(C(C)O)O)O)(O)=O']	['O', 'C(CC(C(C)O)=O)(O)=O']	Elimination + enol to keto
+1755_0	['C(C(C(C(C)O)O)O)(O)=O']	['O', 'C(C(C(CC)=O)O)(O)=O']	Elimination + enol to keto
+1756_0	['C(C(C(C(C)O)O)O)(O)=O']	['O', 'C(C(CC(C)O)=O)(O)=O']	Elimination + enol to keto
+1758_0	['C(C(C(C(C)O)O)O)(O)=O']	['O', 'C(C(CC(C)=O)O)(O)=O']	Elimination + enol to keto
+1759_0	['C(C(C)(C(CO)O)O)(O)=O']	['O', 'C(C(C(CO)=O)C)(O)=O']	Elimination + enol to keto
+1760_0	['C(C(C)(C(CO)O)O)(O)=O']	['O', 'C(C(C(C)=O)(C)O)(O)=O']	Elimination + enol to keto
+1761_0	['C(C(C)(C(CO)O)O)(O)=O']	['O', 'C(C(C)(CC=O)O)(O)=O']	Elimination + enol to keto
+1762_0	['C(C(C(C(O)=O)O)O)(O)=O']	['O', 'C(CC(C(O)=O)=O)(O)=O']	Elimination + enol to keto
+1764_0	['C(C(CO)O)(CC(C(O)=O)=O)=O']	['O', 'C(CC(CC(C(O)=O)=O)=O)=O']	Elimination + enol to keto
+1765_0	['C(C(CO)O)(CC(C(O)=O)=O)=O']	['O', 'C(C(O)=O)(CC(C(C)=O)=O)=O']	Elimination + enol to keto
+1767_0	['C(C)(C(C(C(C(O)=O)=O)O)O)=O']	['O', 'C(C)(CC(C(C(O)=O)=O)=O)=O']	Elimination + enol to keto
+1768_0	['C(C)(C(C(C(C(O)=O)=O)O)O)=O']	['O', 'C(C(O)=O)(CC(C(C)=O)=O)=O']	Elimination + enol to keto
+1770_0	['C(C1(C)C(C(C(O1)=O)O)O)(O)=O']	['O', 'C(C1(C(CC(O1)=O)=O)C)(O)=O']	Elimination + enol to keto
+1771_0	['C(C1(C)C(C(C(O1)=O)O)O)(O)=O']	['O', 'C(C1(C)CC(C(O1)=O)=O)(O)=O']	Elimination + enol to keto
+1773_0	['C1(C(C)(C(C(C(O1)=O)O)O)O)=O']	['O', 'C1(C(C(CC(O1)=O)=O)(C)O)=O']	Elimination + enol to keto
+1775_0	['C1(C(C)(C(C(C(O1)=O)O)O)O)=O']	['O', 'C1(C(C(C(C(O1)=O)O)=O)C)=O']	Elimination + enol to keto
+1776_0	['C1(C(C)(C(C(C(O1)=O)O)O)O)=O']	['O', 'C1(C(C)(CC(C(O1)=O)=O)O)=O']	Elimination + enol to keto
+1778_0	['C1(C(CO)(C(C(O1)=O)(C)O)O)=O']	['O', 'C1(C(C=O)C(C(O1)=O)(C)O)=O']	Elimination + enol to keto
+1780_0	['C1(C(C)(C(C(C(O)=O)O1)O)O)=O']	['O', 'C(C1C(C(C(O1)=O)C)=O)(O)=O']	Elimination + enol to keto
+1782_0	['C(C1(CC(C(C1)=O)=O)O)(O)=O']	['O', 'C(C1CC(C(C=1)=O)=O)(O)=O']	Elimination2
+1784_0	['C(C(C(C)O)C(CC(C)O)O)=O']	['O', 'C(C)=C(C=O)C(CC(C)O)O']	Elimination2
+1786_0	['C(C(C(C)O)C(CC(C)O)O)=O']	['O', 'C(CC(C)O)=C(C=O)C(C)O']	Elimination2
+1787_0	['C(C(C(C)O)C(CC(C)O)O)=O']	['O', 'C(C(C=C)C(CC(C)O)O)=O']	Elimination2
+1789_0	['C(C(C(C)O)C(CC(C)O)O)=O']	['O', 'C(C(C=CC(C)O)C(C)O)=O']	Elimination2
+1790_0	['C(C(C(C)O)C(CC(C)O)O)=O']	['O', 'C(C(C(C)O)C(C=CC)O)=O']	Elimination2
+1791_0	['C(C(C(C)O)C(CC(C)O)O)=O']	['O', 'C(C(C(CC=C)O)C(C)O)=O']	Elimination2
+1793_0	['C(C(C(CC(O)=O)O)C(C)O)=O']	['O', 'C(CC(C(C=O)=CC)O)(O)=O']	Elimination2
+1795_0	['C(C(C(CC(O)=O)O)C(C)O)=O']	['O', 'C(CC=C(C=O)C(C)O)(O)=O']	Elimination2
+1796_0	['C(C(C(CC(O)=O)O)C(C)O)=O']	['O', 'C(C(C=C)C(CC(O)=O)O)=O']	Elimination2
+1798_0	['C(C(C(CC(O)=O)O)C(C)O)=O']	['O', 'C(C(C=CC(O)=O)C(C)O)=O']	Elimination2
+1800_0	['C(C(C=O)C(CC(C)O)O)(O)=O']	['O', 'C(C(C=O)C=CC(C)O)(O)=O']	Elimination2
+1801_0	['C(C(C=O)C(CC(C)O)O)(O)=O']	['O', 'C(C(C=O)C(C=CC)O)(O)=O']	Elimination2
+1802_0	['C(C(C=O)C(CC(C)O)O)(O)=O']	['O', 'C(C(C=O)C(CC=C)O)(O)=O']	Elimination2
+1804_0	['C(C(C=O)C(CC(C)O)O)(O)=O']	['O', 'C(CC(C)O)=C(C(O)=O)C=O']	Elimination2
+1806_0	['C(C(C(C)O)C(C(CO)=O)O)=O']	['O', 'C(CO)(C(C(C=O)=CC)O)=O']	Elimination2
+1808_0	['C(C(C(C)O)C(C(CO)=O)O)=O']	['O', 'C(C(C(C)O)=CC(CO)=O)=O']	Elimination2
+1809_0	['C(C(C(C)O)C(C(CO)=O)O)=O']	['O', 'C(C(C=C)C(C(CO)=O)O)=O']	Elimination2
+1811_0	['C(C(C(C)O)C(C=O)(CO)O)=O']	['O', 'C(C(C(C=O)=CC)(CO)O)=O']	Elimination2
+1813_0	['C(C(C(C)O)C(C=O)(CO)O)=O']	['O', 'C(C(C(C)O)=C(C=O)CO)=O']	Elimination2
+1814_0	['C(C(C(C)O)C(C=O)(CO)O)=O']	['O', 'C(C(C=C)C(C=O)(CO)O)=O']	Elimination2
+1816_0	['C(C(C(C(CC(C)O)O)O)=O)=O']	['O', 'C(C(C(C=O)=O)O)=CC(C)O']	Elimination2
+1817_0	['C(C(C(C(CC(C)O)O)O)=O)=O']	['O', 'C(C(C(C(C=O)=O)O)O)=CC']	Elimination2
+1818_0	['C(C(C(C(CC(C)O)O)O)=O)=O']	['O', 'C(CC(C(C(C=O)=O)O)O)=C']	Elimination2
+1820_0	['C(C(CO)C(C)O)=O']	['O', 'C(C)=C(C=O)CO']	Elimination2
+1822_0	['C(C(CO)C(C)O)=O']	['O', 'C=C(C=O)C(C)O']	Elimination2
+1823_0	['C(C(CO)C(C)O)=O']	['O', 'C(C(C=C)CO)=O']	Elimination2
+1825_0	['C(C(C=O)C(CC(O)=O)O)(O)=O']	['O', 'C(CC=C(C=O)C(O)=O)(O)=O']	Elimination2
+1827_0	['C(C(C=O)C(CC(O)=O)O)(O)=O']	['O', 'C(C(C(O)=O)C=CC(O)=O)=O']	Elimination2
+1829_0	['C(C(C=O)C(C(CO)=O)O)(O)=O']	['O', 'C(C(C=O)=CC(CO)=O)(O)=O']	Elimination2
+1831_0	['C(C(C=O)C(C=O)(CO)O)(O)=O']	['O', 'C(C(C=O)=C(C=O)CO)(O)=O']	Elimination2
+1833_0	['C(CC(C(C(C=O)=O)O)O)(O)=O']	['O', 'C(C(C(C=O)=O)O)=CC(O)=O']	Elimination2
+1834_0	['C(C(C=O)CO)(O)=O']	['O', 'C=C(C=O)C(O)=O']	Elimination2
+1836_0	['C(C(C(CO)C(C)O)=O)(O)=O']	['O', 'C(C)=C(C(C(O)=O)=O)CO']	Elimination2
+1838_0	['C(C(C(CO)C(C)O)=O)(O)=O']	['O', 'C=C(C(C(O)=O)=O)C(C)O']	Elimination2
+1839_0	['C(C(C(CO)C(C)O)=O)(O)=O']	['O', 'C=CC(C(C(O)=O)=O)CO']	Elimination2
+1840_0	['C(C(CO)C(C(O)=O)(C)O)=O']	['O', 'C(C(C(C(O)=O)=C)CO)=O']	Elimination2
+1842_0	['C(C(CO)C(C(O)=O)(C)O)=O']	['O', 'C(C(C)=C(C=O)CO)(O)=O']	Elimination2
+1844_0	['C(C(CO)C(C(O)=O)(C)O)=O']	['O', 'C(C(C(C=O)=C)(C)O)(O)=O']	Elimination2
+1846_0	['C(C(C(C(O)=O)=O)CO)(O)=O']	['O', 'C=C(C(O)=O)C(C(O)=O)=O']	Elimination2
